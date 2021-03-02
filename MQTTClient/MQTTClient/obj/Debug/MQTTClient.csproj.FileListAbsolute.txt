@@ -1,0 +1,13 @@
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\obj\Debug\MQTTClient.csprojAssemblyReference.cache
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\obj\Debug\MQTTClient.Form1.resources
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\obj\Debug\MQTTClient.Properties.Resources.resources
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\obj\Debug\MQTTClient.csproj.GenerateResource.cache
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\obj\Debug\MQTTClient.csproj.CoreCompileInputs.cache
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe.config
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\bin\Debug\MQTTClient.exe
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\bin\Debug\MQTTClient.pdb
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\bin\Debug\M2Mqtt.Net.dll
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\bin\Debug\M2Mqtt.Net.pdb
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\obj\Debug\MQTTClient.csproj.CopyComplete
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\obj\Debug\MQTTClient.exe
+D:\项目\17-软件工具\MQTT\MQTTTEST\MQTTClient\MQTTClient\obj\Debug\MQTTClient.pdb
